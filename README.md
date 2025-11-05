@@ -1,7 +1,7 @@
 # 2048 WebApp Game (Containerized)
 
 A containerized version of the classic **2048** browser game, built and deployed using **Docker** and **Nginx**.  
-This project demonstrates modern DevOps practices — packaging a static web application into a reproducible, portable container.
+This project demonstrates modern DevOps practices packaging a static web application into a reproducible, portable container.
 
 ---
 
