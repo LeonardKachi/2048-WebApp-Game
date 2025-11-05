@@ -110,7 +110,7 @@ CMD ["nginx", "-g", "daemon off;"]
 
 ## Repository
 
-[https://github.com/LeonardKachi/2048-WebApp-Game](https://github.com/LeonardKachi/2048-WebApp-Game)
+[https://github.com/LeonardKachi/2048-Containerized-WebApp-Game.git](https://github.com/LeonardKachi/2048-Containerized-WebApp-Game.git)
 
 ---
 
